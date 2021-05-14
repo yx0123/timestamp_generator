@@ -9,7 +9,7 @@ For `create_timestamps_orb.py`
 
 For `create_timestamps_dso.py`
 ```
-python create_timestamps_dso.py ~/16-833-Project-Datasets/eow_easy_P002/P002/image_left
+python create_timestamps_dso.py ~/16-833-Project-Datasets/eow_easy_P002/P002/
 ```
 
 For `timestamp_copier_gt.py`
